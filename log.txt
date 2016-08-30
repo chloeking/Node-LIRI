@@ -1,0 +1,98 @@
+
+***** New Search - my-tweets - chl0e_king *****
+
+I had to make this twitter account for my node project in my coding class
+----------------------------------------------------
+----------------------------------------------------
+Just setting up my Twitter. #myfirstTweet
+
+***** New Search - spotify-this-song - dancing in the dark *****
+
+Spotify URL: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+Song Name: Dancing In the Dark
+Artist Name: Bruce Springsteen
+Album Name: Born In The U.S.A.
+
+***** New Search - movie-this - the matrix *****
+
+Year: 1999
+Title: The Matrix
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Short Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Rotton Tomatoes URL: http://www.rottentomatoes.com/m/matrix/
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Rotten Tomatoes Rating: 3.6
+
+***** New Search - do-what-it-says - random.txt *****
+
+
+***** New Search - spotify-this-song - "I Want it That Way" *****
+
+Spotify URL: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Artist Name: Backstreet Boys
+Album Name: The Hits--Chapter One
+Song Name: I Want It That Way
+
+***** New Search - my-tweets - chl0e_king *****
+
+----------------------------------------------------
+... It's a shame I have to have twenty tweets considering I have nothing to actually post
+I recently made a volunteering website with three other group members, I had to work with the google maps APIS
+I have also made a pokemon hangman, using javascript
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+Well the instructions for my assignment were to create some tweets for node to read about my most recent projects
+Why do people even use twitter?
+----------------------------------------------------
+----------------------------------------------------
+I had to make this twitter account for my node project in my coding class
+Just setting up my Twitter. #myfirstTweet
+----------------------------------------------------
+
+***** New Search - my-tweets - chl0e_king *****
+
+Tennessee is beautiful
+----------------------------------------------------
+So was chance the rapper
+----------------------------------------------------
+----------------------------------------------------
+Grateful dead was amazing
+Wonder what the lineup will be next year...
+----------------------------------------------------
+I miss bonnaroo
+----------------------------------------------------
+----------------------------------------------------
+Does having 20 tweets really matter?
+Even though I got frustrated multiple times... -.-
+----------------------------------------------------
+This node homework was fun, it interesting to see how twitters Oauth works
+----------------------------------------------------
+----------------------------------------------------
+blah blah
+----------------------------------------------------
+... It's a shame I have to have twenty tweets considering I have nothing to actually post
+----------------------------------------------------
+I have also made a pokemon hangman, using javascript
+----------------------------------------------------
+I recently made a volunteering website with three other group members, I had to work with the google maps APIS
+Well the instructions for my assignment were to create some tweets for node to read about my most recent projects
+----------------------------------------------------
+Why do people even use twitter?
+----------------------------------------------------
+----------------------------------------------------
+I had to make this twitter account for my node project in my coding class
+Just setting up my Twitter. #myfirstTweet
+----------------------------------------------------
+
+* New Search - do-what-it-says - random.txt *
+
+
+* New Search - spotify-this-song - "I Want it That Way" *
+
+Song Name: I Want It That Way
+Spotify URL: https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
